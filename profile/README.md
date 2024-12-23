@@ -2,10 +2,7 @@
 
 Welcome to the official GitHub organization of **ITWise Tech**! 🚀
 
-This repository provides the README in multiple languages. Select your preferred language below:
-
-- [English Version](README.md)
-- [Versão em Português](README_PT.md)
+[Versão em Português](README_PT.md)
 
 ## About Us
 ITWise Tech is a leading IT consulting company dedicated to delivering innovative technology solutions tailored to your business needs. With our primary focus on **Brazil**, we empower organizations to optimize processes, boost efficiency, and achieve their digital transformation goals.
